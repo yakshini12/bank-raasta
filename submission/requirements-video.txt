@@ -1,0 +1,5 @@
+# Python 3.12+, installs into any environment (the project used .venv)
+Pillow>=13,<14
+imageio-ffmpeg>=0.8,<0.9
+edge-tts>=7.3,<8
+tabulate>=0.10,<0.11

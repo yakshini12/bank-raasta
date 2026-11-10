@@ -1,0 +1,14 @@
+.env
+node_modules/
+.venv/
+submission/.video-deps/
+submission/.render/
+submission/build-tmp/
+submission/audio/
+submission/Bank-Raasta-story-demo.mp4
+submission/Bank-Raasta-demo-preview.mp4
+submission/Bank-Raasta-demo-dialogue.mp4
+# stock footage input is fetched on demand (see README "Demo video")
+submission/assets/market-video.mp4
+__pycache__/
+Thumbs.db

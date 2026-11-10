@@ -1,0 +1,12 @@
+{
+  "name": "bank-raasta",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A voice-first guide for organizing a bank complaint and finding the next official step.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
