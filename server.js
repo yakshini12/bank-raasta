@@ -3,7 +3,7 @@ const path = require('node:path');
 const http = require('node:http');
 
 const ROOT = __dirname;
-const PUBLIC = path.join(ROOT, 'public');
+const PUBLIC = path.join(ROOT, 'docs');
 const MAX_BODY = 20 * 1024 * 1024;
 
 function loadEnv() {
